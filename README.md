@@ -23,5 +23,10 @@ if you do not have anaconda install the you need to install following libraries:
 
 [>> For best-practice_programming download the images from](https://drive.google.com/open?id=1oTXMaxoUjP072MAZq_uk45NK9GJ9Ch7M)
 
+## Project details
+- **beginner_programming:** In this project you will see the result of writing naive and unstructured code. 
+- **advance_programming:**  In this project you practise best coding practices and how to write a modular code.  
+- **best_practice_programming:** In this project you will learn about design pattern.
+
 
 
