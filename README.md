@@ -1,8 +1,9 @@
 # best_coding_practices
 The goal of this repository to help beginner developers to learn about best coding practices and help them to improve the quality of their software.
+This repository is a collection of small and focused projects - each try to convert the naive code to a well defined and structured code. A strong focus is to illustrate best coding practise by using the modular and object oriented programming. 
 
 ## Tutorials
-If you are not familier with best coding practices in python I recomand to read [best coding practices](doc/best_coding_practices.md) document first.
+If you are not familiar with best coding practices in python I recommend to read [best coding practices](doc/best_coding_practices.md) document first.
 
 ## Installation
 If you are using anaconda you install all the require library by importing the [environment.yml](installation/environment.yml).
